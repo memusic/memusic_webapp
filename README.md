@@ -2,6 +2,8 @@
 
 First full Blockchain‑based music & streaming service
 
+![alt text](https://github.com/memusic/memusic_webapp/img.png)
+
 
 
 ## Introduction

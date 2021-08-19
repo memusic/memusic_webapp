@@ -26,3 +26,21 @@ Imagine that you share a piece of viral music with everybody in the office. The 
 With IPFS, instead of a website’s server needing to transfer the music to every person who is trying to play it, IPFS can simply look for the music’s IPFS hash (which is the id for the content.) Note that this hash is based on what the content is, not where the content is. Instead of fetching that content from the website’s server, the browser will ask the IPFS network for the content corresponding to the IPFS hash it was just given, regardless of where it is stored.
 
 Keeping with the above example, if everybody downloads the exact same music, they can now retrieve it from a peer within the office. Instead of each person retrieving that music from a server across the internet backbone, the first person to download the video could share it with everybody else in the office. Because your peers in the same building are expected able to deliver the music faster than the website’s server, you will fetch it from them without touching the internet backbone.
+
+
+## PHP Extensions
+
+php extension: cURL
+php extension: MySQLi
+php extension: mbstring
+php extension: gd
+php extension: ftp 
+
+## Current Features
+
+Payments: Paypal, Strip
+Spotify
+YouTube
+Responsive
+Waveform
+AWS
